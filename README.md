@@ -1,4 +1,5 @@
-# Projeto-de-PIC-2023-2--HANDCAR
+# HAND CAR
+# # PROJETO PIC 2023/2
 Esse é um projeto desenvolvido em parceria com a disciplina de Projeto Intregado de computação e com o professor Rodolfo da Silva Villaca.
 Nosso grupo é composto por Filipe de Barros, André Penedo e Caio Nakamura.
 
